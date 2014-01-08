@@ -6,7 +6,7 @@ Weibo:欧阳盆栽null
 Email:214501728@qq.com 
 qq:214501728
 
-'Endless Master' is a Cross-platform game . This repository is the source codes.
+'Endless Master' is a Cross-platform game . This repository is the description of the game's design.
 
 无尽大师是一款多人在线&跨平台的网络游戏。
 
